@@ -10,7 +10,7 @@ Family Planner is a user-friendly To-Do application specially designed for famil
 - **Task Management**: Only available in the parents section. Create, update or delete tasks for every family member
 - **E-mail Notifications**: Receive E-mail notifications for finished tasks.
 
-## Technologies Used
+## Technologies 
 - **Laravel 9**: The application is built using the PHP framework Laravel (version 9).
 - **MySQL**: The database system used for storing task and user data.
 - **JavaScript/HTML/CSS**: Front-end technologies for creating an intuitive user interface.
